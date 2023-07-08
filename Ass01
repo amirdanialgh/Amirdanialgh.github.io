@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <title><h1>Hey it looklike a paragraph but ther is a block ox here too find the html elements other than p and h</h1></title>
+    <img src="NYC.jpg" alt="">
+    <video src=""></video>
+</body>
+</html>
